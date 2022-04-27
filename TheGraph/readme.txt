@@ -1,0 +1,1 @@
+Given an input file with routes between named areas and the associated cost, returns statistics about the file by creating a theoretical graph that associates each source with the corresponding destination

@@ -1,0 +1,5 @@
+Number of Vertices: 10
+Vertices with zero inbound edges: Stage 1   
+Vertices with self edges: Basic   
+Vertices with zero outbound edges: Tapu Koko   Jirachi   Muk   Charizard   
+Edge(s) with heaviest weight: Charmander Charmeleon   
